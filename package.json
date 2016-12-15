@@ -6,8 +6,12 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nick121212/crawler-downloader-analysis.git"
+    },
+    "author": "NICK",
+    "license": "MIT",
     "dependencies": {
         "boom": "^4.2.0",
         "findit": "^2.0.0",
